@@ -1,0 +1,42 @@
+using UnityEngine;
+
+namespace DH.Core.Helpers.Utility
+{
+    public class Singleton<T> : MonoBehaviour where T : MonoBehaviour
+    {
+        protected static T _instance;
+        public static bool HasInstance => _instance != null;
+        public static T Instance
+        {
+            get
+            {
+                if (_instance == null)
+                {
+                    _instance = FindObjectOfType<T>();
+                    if (_instance == null)
+                    {
+                        GameObject obj = new GameObject(typeof(T).Name + " Auto-Generated");
+                        _instance = obj.AddComponent<T>();
+                    }
+                }
+                return _instance;
+            }
+        }
+
+        /// <summary>
+        /// Make sure to call base.Awake() in override if you need awake.
+        /// </summary>
+        protected virtual void Awake()
+        {
+            InitializeSingleton();
+        }
+
+        protected virtual void InitializeSingleton()
+        {
+            if (!Application.isPlaying) return;
+
+            _instance = this as T;
+        }
+    }
+}
+

@@ -1,0 +1,14 @@
+{
+    "name": "DH.Core.Helpers.Utility",
+    "rootNamespace": "DH.Core.Helpers.Utility",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

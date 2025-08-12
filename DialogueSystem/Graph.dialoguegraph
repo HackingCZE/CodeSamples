@@ -1,0 +1,1786 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 790b4d75d92f4b0984310a268dbd952f, type: 3}
+  m_Name: Graph
+  m_EditorClassIdentifier: Unity.GraphToolkit.Editor::Unity.GraphToolkit.Editor.Implementation.GraphObjectImp
+  m_GraphModel:
+    rid: 5912257698292826320
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 5912257698292826320
+      type: {class: GraphModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 5117072581824035743
+          m_Value1: 9393078670089230793
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 9f3b83d9667e0347c999f7a548eb5a82
+        m_Name: Graph
+        m_GraphNodeModels:
+        - rid: 5912257717624111232
+        - rid: 5912257717624111283
+        - rid: 5912257717624111682
+        - rid: 5912257717624111688
+        - rid: 5912257717624111708
+        - rid: 5912257717624111740
+        - rid: 5912257717624111759
+        - rid: 5912257717624111787
+        - rid: 5912257717624111918
+        - rid: 5912257717624111927
+        - rid: 5912257884132474995
+        - rid: 5912257884132475044
+        - rid: 5912257884132475052
+        m_GraphWireModels:
+        - rid: 5912257717624111687
+        - rid: 5912257717624111690
+        - rid: 5912257717624111709
+        - rid: 5912257717624111760
+        - rid: 5912257717624111794
+        - rid: 5912257717624111928
+        - rid: 5912257717624111960
+        - rid: 5912257717624111969
+        - rid: 5912257884132474990
+        - rid: 5912257884132475001
+        - rid: 5912257884132475017
+        - rid: 5912257884132475053
+        - rid: 5912257884132475058
+        - rid: 5912257884132475059
+        - rid: 5912257884132475061
+        m_GraphStickyNoteModels: []
+        m_GraphPlacematModels: []
+        m_GraphVariableModels:
+        - rid: 5912257717624111742
+        - rid: 5912257884132475076
+        - rid: 5912257884132475081
+        m_GraphPortalModels: []
+        m_SectionModels:
+        - rid: 5912257698292826321
+        m_LocalSubgraphs: []
+        m_LastKnownBounds:
+          serializedVersion: 2
+          x: -23
+          y: -46
+          width: 2899
+          height: 995
+        m_GraphElementMetaData:
+        - m_Guid:
+            m_Value0: 1299146729062113639
+            m_Value1: 8789665116908321121
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 67a1db20117f07126179f6abda29fb79
+          m_Category: 0
+          m_Index: 0
+        - m_Guid:
+            m_Value0: 10097058402390499101
+            m_Value1: 11561826802270739917
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 1ddfdbd61ef51f8ccd1df02f38dc73a0
+          m_Category: 0
+          m_Index: 1
+        - m_Guid:
+            m_Value0: 2312870248176173533
+            m_Value1: 8194090693972347842
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: dd411c923cf71820c24b8e6f1242b771
+          m_Category: 0
+          m_Index: 2
+        - m_Guid:
+            m_Value0: 9684502392390818398
+            m_Value1: 13744510188452407949
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 5e1ae07c9d4366868d6a71e2314fbebe
+          m_Category: 0
+          m_Index: 3
+        - m_Guid:
+            m_Value0: 6696710186260986018
+            m_Value1: 16017143803824761639
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: a278d3076f7eef5c27eb52576d5348de
+          m_Category: 2
+          m_Index: 0
+        - m_Guid:
+            m_Value0: 7120229320354612628
+            m_Value1: 10854510048159432654
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 94c50e9fd722d062ce7f730f61f7a296
+          m_Category: 2
+          m_Index: 1
+        - m_Guid:
+            m_Value0: 10554517438248765696
+            m_Value1: 4479769261720064500
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 00c97b9ab02d7992f4d189a068562b3e
+          m_Category: 0
+          m_Index: 4
+        - m_Guid:
+            m_Value0: 1271836312612903495
+            m_Value1: 5858403344979624120
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 471abc496378a611b8807898cd3a4d51
+          m_Category: 0
+          m_Index: 4
+        - m_Guid:
+            m_Value0: 5661905969536938588
+            m_Value1: 4115523553282475985
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 5cb2e9317b21934ed1c727e2dd461d39
+          m_Category: 2
+          m_Index: 2
+        - m_Guid:
+            m_Value0: 8980592914458916473
+            m_Value1: 11399900401474462427
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 79b6b6aaac79a17cdbe2b7100495349e
+          m_Category: 1
+          m_Index: 0
+        - m_Guid:
+            m_Value0: 5000759270012086399
+            m_Value1: 13020098101558634995
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 7fe84f980f446645f3e9236c3daeb0b4
+          m_Category: 0
+          m_Index: 5
+        - m_Guid:
+            m_Value0: 16458832711498660266
+            m_Value1: 10595322130631811191
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: aaf97402268569e477e0246557250a93
+          m_Category: 0
+          m_Index: 6
+        - m_Guid:
+            m_Value0: 3371485320950624382
+            m_Value1: 4661577007025717191
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 7eb0b45809ecc92ec77fe5fc963fb140
+          m_Category: 2
+          m_Index: 3
+        - m_Guid:
+            m_Value0: 4649119210038876928
+            m_Value1: 7554954567353777794
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 00dbcf184afd8440823e56b12697d868
+          m_Category: 0
+          m_Index: 7
+        - m_Guid:
+            m_Value0: 10368122022389371926
+            m_Value1: 13010383348026681990
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 16546cf40bf8e28f86aac91ab92a8eb4
+          m_Category: 2
+          m_Index: 4
+        - m_Guid:
+            m_Value0: 4445215520917161204
+            m_Value1: 17050725951172434322
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: f40452eaf693b03d92d92afae958a0ec
+          m_Category: 0
+          m_Index: 8
+        - m_Guid:
+            m_Value0: 14147324276247035107
+            m_Value1: 13127211218471972447
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: e3fcf637796455c45f6e8b600d392db6
+          m_Category: 0
+          m_Index: 9
+        - m_Guid:
+            m_Value0: 7028162116087414898
+            m_Value1: 9133323540858707761
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 72803f31350c8961319f98b75e15c07e
+          m_Category: 2
+          m_Index: 5
+        - m_Guid:
+            m_Value0: 6253650596645855789
+            m_Value1: 14760210519740980288
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 2d627c9a156ec956401c25c743cdd6cc
+          m_Category: 2
+          m_Index: 6
+        - m_Guid:
+            m_Value0: 13024309539684652215
+            m_Value1: 18211028710520716727
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: b794a24585a4bfb4b7fd06452092bafc
+          m_Category: 2
+          m_Index: 7
+        - m_Guid:
+            m_Value0: 8813156357989197256
+            m_Value1: 2840727424507471230
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: c8e5eb73039f4e7a7e657ab18a4a6c27
+          m_Category: 2
+          m_Index: 8
+        - m_Guid:
+            m_Value0: 11024688279601110427
+            m_Value1: 14582801372150110088
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 9b5d0939948fff98881716c1958460ca
+          m_Category: 0
+          m_Index: 10
+        - m_Guid:
+            m_Value0: 17961070802110509245
+            m_Value1: 7020192840258811715
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: bdf06f91bb8a42f943f75d9231bc6c61
+          m_Category: 2
+          m_Index: 9
+        - m_Guid:
+            m_Value0: 17384397071332299338
+            m_Value1: 14805557688950050011
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 4a521aa707c941f1dbcc6b5f46e877cd
+          m_Category: 2
+          m_Index: 10
+        - m_Guid:
+            m_Value0: 16540619366159649674
+            m_Value1: 17228880888445856781
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 8a8be474ad158ce50dec54b1e24719ef
+          m_Category: 0
+          m_Index: 11
+        - m_Guid:
+            m_Value0: 9857798931384391008
+            m_Value1: 6407130413010354213
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 60556434e6efcd88258015092ab3ea58
+          m_Category: 0
+          m_Index: 12
+        - m_Guid:
+            m_Value0: 1390395104662262020
+            m_Value1: 8399489770868649906
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 0411d626fbac4b13b22f27b771fb9074
+          m_Category: 2
+          m_Index: 11
+        - m_Guid:
+            m_Value0: 5201874475762008049
+            m_Value1: 9580356840723635929
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: f13ff76546c53048d9ded0a8c943f484
+          m_Category: 2
+          m_Index: 12
+        - m_Guid:
+            m_Value0: 3480780863609561281
+            m_Value1: 14109253496853386021
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: c1e06ce4c0374e302553e2254d23cec3
+          m_Category: 2
+          m_Index: 13
+        - m_Guid:
+            m_Value0: 11219058844288300319
+            m_Value1: 8870028784945327958
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 1f3502e8931ab29b56ef273a2fac187b
+          m_Category: 2
+          m_Index: 14
+        - m_Guid:
+            m_Value0: 6766330320401609550
+            m_Value1: 13678021276849250203
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: 4e337eac93d5e65d9b9fd5cce117d2bd
+          m_Category: 1
+          m_Index: 1
+        - m_Guid:
+            m_Value0: 3594654652088321752
+            m_Value1: 8974850759850699390
+          m_HashGuid:
+            serializedVersion: 2
+            Hash: d806ee5b5cc7e2317eaa0b1d37138d7c
+          m_Category: 1
+          m_Index: 2
+        m_EntryPoint:
+          rid: 5912257717624111232
+        m_Graph:
+          rid: 5912257698292826322
+    - rid: 5912257698292826321
+      type: {class: SectionModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 14827254942885580086
+          m_Value1: 941118495460612843
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 368dd9f8cffdc4cdebda7a0d49860f0d
+        m_Version: 2
+        m_Items:
+        - rid: 5912257717624111742
+        - rid: 5912257884132475076
+        - rid: 5912257884132475081
+        m_Title: 
+    - rid: 5912257698292826322
+      type: {class: DialogueGraph, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111232
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 1299146729062113639
+          m_Value1: 8789665116908321121
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 67a1db20117f07126179f6abda29fb79
+        m_Version: 2
+        m_Position: {x: 499.16467, y: 232.051}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - isPlayer
+          - in
+          - Color
+          - Mood
+          - Speaker
+          - LocalizeDetails
+          m_ValueList:
+          - rid: 5912257717624111233
+          - rid: 5912257717624111916
+          - rid: 5912257717624111236
+          - rid: 5912257717624111255
+          - rid: 5912257717624111959
+          - rid: 5912257717624111692
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111237
+    - rid: 5912257717624111233
+      type: {class: 'Constant`1[[System.Boolean, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 0
+    - rid: 5912257717624111236
+      type: {class: 'Constant`1[[UnityEngine.Color, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {r: 0, g: 0, b: 0, a: 0}
+    - rid: 5912257717624111237
+      type: {class: DialogueNormalNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111255
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DialogueSystem.SpeakerItemSO+Moods, Assembly-CSharp,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: DialogueSystem.SpeakerItemSO+Moods, Assembly-CSharp,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111283
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 10097058402390499101
+          m_Value1: 11561826802270739917
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 1ddfdbd61ef51f8ccd1df02f38dc73a0
+        m_Version: 2
+        m_Position: {x: 1030.0822, y: 208.71}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - isPlayer
+          - countChoice
+          - in
+          - Mood
+          - Color
+          - ChoiceText 0
+          - ChoiceText 1
+          m_ValueList:
+          - rid: 5912257717624111284
+          - rid: 5912257717624111285
+          - rid: 5912257717624111917
+          - rid: 5912257717624111287
+          - rid: 5912257717624111288
+          - rid: 5912257717624111705
+          - rid: 5912257717624111706
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111290
+    - rid: 5912257717624111284
+      type: {class: 'Constant`1[[System.Boolean, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 1
+    - rid: 5912257717624111285
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 2
+    - rid: 5912257717624111287
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DialogueSystem.SpeakerItemSO+Moods, Assembly-CSharp,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: DialogueSystem.SpeakerItemSO+Moods, Assembly-CSharp,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111288
+      type: {class: 'Constant`1[[UnityEngine.Color, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {r: 0, g: 0, b: 0, a: 0}
+    - rid: 5912257717624111290
+      type: {class: DialogueChoiceNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111682
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 9684502392390818398
+          m_Value1: 13744510188452407949
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 5e1ae07c9d4366868d6a71e2314fbebe
+        m_Version: 2
+        m_Position: {x: 2478.6348, y: 180.77249}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - in
+          - switchToGraph
+          - Switch to Graph
+          m_ValueList:
+          - rid: 5912257717624111941
+          - rid: 5912257884132475066
+          - rid: 5912257884132475091
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111683
+    - rid: 5912257717624111683
+      type: {class: DialogueEndNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111687
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 6696710186260986018
+          m_Value1: 16017143803824761639
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: a278d3076f7eef5c27eb52576d5348de
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 1299146729062113639
+            m_Value1: 8789665116908321121
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 67a1db20117f07126179f6abda29fb79
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 9857798931384391008
+            m_Value1: 6407130413010354213
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 60556434e6efcd88258015092ab3ea58
+          m_UniqueId: in 1
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: in 1
+    - rid: 5912257717624111688
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 3088532452402440959
+          m_Value1: 10134316602792363607
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: ffaab6d6e6abdc2a5746c89e4153a48c
+        m_Version: 2
+        m_Position: {x: 149.94247, y: 257.8634}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111689
+    - rid: 5912257717624111689
+      type: {class: DialogueStartNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111690
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 7120229320354612628
+          m_Value1: 10854510048159432654
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 94c50e9fd722d062ce7f730f61f7a296
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 3088532452402440959
+            m_Value1: 10134316602792363607
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: ffaab6d6e6abdc2a5746c89e4153a48c
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 1299146729062113639
+            m_Value1: 8789665116908321121
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 67a1db20117f07126179f6abda29fb79
+          m_UniqueId: in
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: in
+    - rid: 5912257717624111692
+      type: {class: 'Constant`1[[DialogueLocalizeDetailsNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: {}
+    - rid: 5912257717624111705
+      type: {class: 'Constant`1[[DialogueLocalizeChoiceNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: {}
+    - rid: 5912257717624111706
+      type: {class: 'Constant`1[[DialogueLocalizeChoiceNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: {}
+    - rid: 5912257717624111708
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 1271836312612903495
+          m_Value1: 5858403344979624120
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 471abc496378a611b8807898cd3a4d51
+        m_Version: 2
+        m_Position: {x: -22.875, y: 423.12494}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - count
+          - Message 0
+          - Language 0
+          - Message 1
+          - Language 1
+          m_ValueList:
+          - rid: 5912257717624111710
+          - rid: 5912257717624111720
+          - rid: 5912257717624111721
+          - rid: 5912257717624111736
+          - rid: 5912257717624111737
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111713
+    - rid: 5912257717624111709
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 5661905969536938588
+          m_Value1: 4115523553282475985
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 5cb2e9317b21934ed1c727e2dd461d39
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 1271836312612903495
+            m_Value1: 5858403344979624120
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 471abc496378a611b8807898cd3a4d51
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 1299146729062113639
+            m_Value1: 8789665116908321121
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 67a1db20117f07126179f6abda29fb79
+          m_UniqueId: LocalizeDetails
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: LocalizeDetails
+    - rid: 5912257717624111710
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 2
+    - rid: 5912257717624111713
+      type: {class: DialogueLocalizeDetailsNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111720
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: Ahoj
+    - rid: 5912257717624111721
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111736
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: Hello
+    - rid: 5912257717624111737
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 1
+        m_EnumType:
+          m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111740
+      type: {class: VariableNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 5000759270012086399
+          m_Value1: 13020098101558634995
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 7fe84f980f446645f3e9236c3daeb0b4
+        m_Version: 2
+        m_Position: {x: 1047.245, y: -177.64246}
+        m_Title: Speaker
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList: []
+          m_ValueList: []
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_DeclarationModel:
+          rid: 5912257717624111742
+        m_DeclarationModelHashGuid:
+          serializedVersion: 2
+          Hash: 79b6b6aaac79a17cdbe2b7100495349e
+    - rid: 5912257717624111742
+      type: {class: VariableDeclarationModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 8980592914458916473
+          m_Value1: 11399900401474462427
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 79b6b6aaac79a17cdbe2b7100495349e
+        m_Version: 2
+        m_Name: Villiger
+        m_UniqueId: 
+        m_DataType:
+          m_Identification: DialogueSystem.SpeakerItemSO, Assembly-CSharp, Version=0.0.0.0,
+            Culture=neutral, PublicKeyToken=null
+        m_IsExposed: 0
+        m_Scope: 0
+        m_ShowOnInspectorOnly: 0
+        m_Tooltip: 
+        m_InitializationValue:
+          rid: 5912257717624111743
+        m_Modifiers: 1
+        m_VariableFlags: 0
+    - rid: 5912257717624111743
+      type: {class: 'Constant`1[[DialogueSystem.SpeakerItemSO, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {fileID: 11400000, guid: 0e22c97577fb1e84cbf737c28d2c7beb, type: 2}
+    - rid: 5912257717624111759
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 16458832711498660266
+          m_Value1: 10595322130631811191
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: aaf97402268569e477e0246557250a93
+        m_Version: 2
+        m_Position: {x: 593.0886, y: 535.9398}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - count
+          - Language 0
+          - Text 0
+          - Text 1
+          - Language 1
+          m_ValueList:
+          - rid: 5912257717624111761
+          - rid: 5912257717624111762
+          - rid: 5912257717624111763
+          - rid: 5912257717624111779
+          - rid: 5912257717624111780
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111764
+    - rid: 5912257717624111760
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 3371485320950624382
+          m_Value1: 4661577007025717191
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 7eb0b45809ecc92ec77fe5fc963fb140
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 16458832711498660266
+            m_Value1: 10595322130631811191
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: aaf97402268569e477e0246557250a93
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 10097058402390499101
+            m_Value1: 11561826802270739917
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 1ddfdbd61ef51f8ccd1df02f38dc73a0
+          m_UniqueId: ChoiceText 0
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: ChoiceText 0
+    - rid: 5912257717624111761
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 2
+    - rid: 5912257717624111762
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111763
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: "\u010Ds"
+    - rid: 5912257717624111764
+      type: {class: DialogueLocalizeChoiceNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111779
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: cs
+    - rid: 5912257717624111780
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 1
+        m_EnumType:
+          m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111787
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 4649119210038876928
+          m_Value1: 7554954567353777794
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 00dbcf184afd8440823e56b12697d868
+        m_Version: 2
+        m_Position: {x: 589.1552, y: 756.483}
+        m_Title: DialogueLocalizeChoiceNode
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - count
+          - Language 0
+          - Text 0
+          - Text 1
+          - Language 1
+          m_ValueList:
+          - rid: 5912257717624111788
+          - rid: 5912257717624111789
+          - rid: 5912257717624111790
+          - rid: 5912257717624111791
+          - rid: 5912257717624111792
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111793
+    - rid: 5912257717624111788
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 2
+    - rid: 5912257717624111789
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111790
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: "\u010Dau"
+    - rid: 5912257717624111791
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: hi
+    - rid: 5912257717624111792
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 1
+        m_EnumType:
+          m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111793
+      type: {class: DialogueLocalizeChoiceNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111794
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 10368122022389371926
+          m_Value1: 13010383348026681990
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 16546cf40bf8e28f86aac91ab92a8eb4
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 4649119210038876928
+            m_Value1: 7554954567353777794
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 00dbcf184afd8440823e56b12697d868
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 10097058402390499101
+            m_Value1: 11561826802270739917
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 1ddfdbd61ef51f8ccd1df02f38dc73a0
+          m_UniqueId: ChoiceText 1
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: ChoiceText 1
+    - rid: 5912257717624111916
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257717624111917
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257717624111918
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 4445215520917161204
+          m_Value1: 17050725951172434322
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: f40452eaf693b03d92d92afae958a0ec
+        m_Version: 2
+        m_Position: {x: 1909, y: 166.25003}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - isPlayer
+          - in
+          - Mood
+          - Color
+          - LocalizeDetails
+          - Speaker
+          m_ValueList:
+          - rid: 5912257717624111920
+          - rid: 5912257717624111921
+          - rid: 5912257717624111922
+          - rid: 5912257717624111923
+          - rid: 5912257717624111925
+          - rid: 5912257717624111968
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111926
+    - rid: 5912257717624111920
+      type: {class: 'Constant`1[[System.Boolean, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 0
+    - rid: 5912257717624111921
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257717624111922
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DialogueSystem.SpeakerItemSO+Moods, Assembly-CSharp,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: DialogueSystem.SpeakerItemSO+Moods, Assembly-CSharp,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111923
+      type: {class: 'Constant`1[[UnityEngine.Color, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {r: 0, g: 0, b: 0, a: 0}
+    - rid: 5912257717624111925
+      type: {class: 'Constant`1[[DialogueLocalizeDetailsNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: {}
+    - rid: 5912257717624111926
+      type: {class: DialogueNormalNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111927
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 14147324276247035107
+          m_Value1: 13127211218471972447
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: e3fcf637796455c45f6e8b600d392db6
+        m_Version: 2
+        m_Position: {x: 1477.9376, y: 637.80756}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - count
+          - Language 0
+          - Message 0
+          - Language 1
+          - Message 1
+          m_ValueList:
+          - rid: 5912257717624111929
+          - rid: 5912257717624111930
+          - rid: 5912257717624111931
+          - rid: 5912257717624111933
+          - rid: 5912257717624111934
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257717624111932
+    - rid: 5912257717624111928
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 7028162116087414898
+          m_Value1: 9133323540858707761
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 72803f31350c8961319f98b75e15c07e
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 14147324276247035107
+            m_Value1: 13127211218471972447
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: e3fcf637796455c45f6e8b600d392db6
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 4445215520917161204
+            m_Value1: 17050725951172434322
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: f40452eaf693b03d92d92afae958a0ec
+          m_UniqueId: LocalizeDetails
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: LocalizeDetails
+    - rid: 5912257717624111929
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 2
+    - rid: 5912257717624111930
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111931
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: "\u0161uper"
+    - rid: 5912257717624111932
+      type: {class: DialogueLocalizeDetailsNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257717624111933
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 1
+        m_EnumType:
+          m_Identification: DH.Core.Managers.GameManager+Languages, DH.Core.Managers,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257717624111934
+      type: {class: 'Constant`1[[System.String, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: super
+    - rid: 5912257717624111941
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257717624111959
+      type: {class: 'Constant`1[[DialogueSystem.SpeakerItemSO, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {fileID: 0}
+    - rid: 5912257717624111960
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 6253650596645855789
+          m_Value1: 14760210519740980288
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 2d627c9a156ec956401c25c743cdd6cc
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 5000759270012086399
+            m_Value1: 13020098101558634995
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 7fe84f980f446645f3e9236c3daeb0b4
+          m_UniqueId: MainPortName
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: MainPortName
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 1299146729062113639
+            m_Value1: 8789665116908321121
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 67a1db20117f07126179f6abda29fb79
+          m_UniqueId: Speaker
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: Speaker
+    - rid: 5912257717624111968
+      type: {class: 'Constant`1[[DialogueSystem.SpeakerItemSO, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {fileID: 0}
+    - rid: 5912257717624111969
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 13024309539684652215
+          m_Value1: 18211028710520716727
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: b794a24585a4bfb4b7fd06452092bafc
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 5000759270012086399
+            m_Value1: 13020098101558634995
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 7fe84f980f446645f3e9236c3daeb0b4
+          m_UniqueId: MainPortName
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: MainPortName
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 4445215520917161204
+            m_Value1: 17050725951172434322
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: f40452eaf693b03d92d92afae958a0ec
+          m_UniqueId: Speaker
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: Speaker
+    - rid: 5912257884132474990
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 8813156357989197256
+          m_Value1: 2840727424507471230
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: c8e5eb73039f4e7a7e657ab18a4a6c27
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 4445215520917161204
+            m_Value1: 17050725951172434322
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: f40452eaf693b03d92d92afae958a0ec
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 9684502392390818398
+            m_Value1: 13744510188452407949
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 5e1ae07c9d4366868d6a71e2314fbebe
+          m_UniqueId: in
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: in
+    - rid: 5912257884132474995
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 11024688279601110427
+          m_Value1: 14582801372150110088
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 9b5d0939948fff98881716c1958460ca
+        m_Version: 2
+        m_Position: {x: 1536.15, y: 234.1001}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - count
+          - in 0
+          - in 1
+          m_ValueList:
+          - rid: 5912257884132474997
+          - rid: 5912257884132474998
+          - rid: 5912257884132474999
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257884132475000
+    - rid: 5912257884132474997
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 1
+    - rid: 5912257884132474998
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257884132474999
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257884132475000
+      type: {class: DialogueArrayNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257884132475001
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 17961070802110509245
+          m_Value1: 7020192840258811715
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: bdf06f91bb8a42f943f75d9231bc6c61
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 11024688279601110427
+            m_Value1: 14582801372150110088
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 9b5d0939948fff98881716c1958460ca
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 4445215520917161204
+            m_Value1: 17050725951172434322
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: f40452eaf693b03d92d92afae958a0ec
+          m_UniqueId: in
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: in
+    - rid: 5912257884132475017
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 17384397071332299338
+          m_Value1: 14805557688950050011
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 4a521aa707c941f1dbcc6b5f46e877cd
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 10097058402390499101
+            m_Value1: 11561826802270739917
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 1ddfdbd61ef51f8ccd1df02f38dc73a0
+          m_UniqueId: Choice 1
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: Choice 1
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 11024688279601110427
+            m_Value1: 14582801372150110088
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 9b5d0939948fff98881716c1958460ca
+          m_UniqueId: in 1
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: in 1
+    - rid: 5912257884132475044
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 16540619366159649674
+          m_Value1: 17228880888445856781
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 8a8be474ad158ce50dec54b1e24719ef
+        m_Version: 2
+        m_Position: {x: 440.39252, y: -46.142517}
+        m_Title: DialogueNormalNode
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - isPlayer
+          - in
+          - Color
+          - Mood
+          - LocalizeDetails
+          m_ValueList:
+          - rid: 5912257884132475045
+          - rid: 5912257884132475046
+          - rid: 5912257884132475047
+          - rid: 5912257884132475048
+          - rid: 5912257884132475050
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257884132475051
+    - rid: 5912257884132475045
+      type: {class: 'Constant`1[[System.Boolean, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 1
+    - rid: 5912257884132475046
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257884132475047
+      type: {class: 'Constant`1[[UnityEngine.Color, UnityEngine.CoreModule]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {r: 0, g: 0, b: 0, a: 0}
+    - rid: 5912257884132475048
+      type: {class: EnumConstant, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value:
+          m_EnumType:
+            m_Identification: DialogueSystem.SpeakerItemSO+Moods, Assembly-CSharp,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_Value: 0
+        m_EnumType:
+          m_Identification: DialogueSystem.SpeakerItemSO+Moods, Assembly-CSharp,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    - rid: 5912257884132475050
+      type: {class: 'Constant`1[[DialogueLocalizeDetailsNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: {}
+    - rid: 5912257884132475051
+      type: {class: DialogueNormalNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257884132475052
+      type: {class: UserNodeModelImp, ns: Unity.GraphToolkit.Editor.Implementation, asm: Unity.GraphToolkit.Editor}
+      data:
+        m_Guid:
+          m_Value0: 9857798931384391008
+          m_Value1: 6407130413010354213
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 60556434e6efcd88258015092ab3ea58
+        m_Version: 2
+        m_Position: {x: 840, y: 120.8249}
+        m_Title: 
+        m_Tooltip: 
+        m_NodePreviewModel:
+          rid: -2
+        m_State: 0
+        m_InputConstantsById:
+          m_KeyList:
+          - count
+          - in 0
+          - in 1
+          m_ValueList:
+          - rid: 5912257884132475054
+          - rid: 5912257884132475055
+          - rid: 5912257884132475056
+        m_InputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_OutputPortInfos:
+          expandedPortsById:
+            m_KeyList: []
+            m_ValueList: 
+        m_Collapsed: 0
+        m_CurrentModeIndex: 0
+        m_ElementColor:
+          m_Color: {r: 0, g: 0, b: 0, a: 0}
+          m_HasUserColor: 0
+        m_Node:
+          rid: 5912257884132475057
+    - rid: 5912257884132475053
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 1390395104662262020
+          m_Value1: 8399489770868649906
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 0411d626fbac4b13b22f27b771fb9074
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 16540619366159649674
+            m_Value1: 17228880888445856781
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 8a8be474ad158ce50dec54b1e24719ef
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 9857798931384391008
+            m_Value1: 6407130413010354213
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 60556434e6efcd88258015092ab3ea58
+          m_UniqueId: in 0
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: in 0
+    - rid: 5912257884132475054
+      type: {class: 'Constant`1[[System.Int32, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 1
+    - rid: 5912257884132475055
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257884132475056
+      type: {class: 'Constant`1[[BaseDialogueNode, Assembly-CSharp-Editor]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data: 
+    - rid: 5912257884132475057
+      type: {class: DialogueArrayNode, ns: , asm: Assembly-CSharp-Editor}
+      data: 
+    - rid: 5912257884132475058
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 5201874475762008049
+          m_Value1: 9580356840723635929
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: f13ff76546c53048d9ded0a8c943f484
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 9857798931384391008
+            m_Value1: 6407130413010354213
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 60556434e6efcd88258015092ab3ea58
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 10097058402390499101
+            m_Value1: 11561826802270739917
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 1ddfdbd61ef51f8ccd1df02f38dc73a0
+          m_UniqueId: in
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: in
+    - rid: 5912257884132475059
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 3480780863609561281
+          m_Value1: 14109253496853386021
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: c1e06ce4c0374e302553e2254d23cec3
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 1271836312612903495
+            m_Value1: 5858403344979624120
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 471abc496378a611b8807898cd3a4d51
+          m_UniqueId: out
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: out
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 16540619366159649674
+            m_Value1: 17228880888445856781
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 8a8be474ad158ce50dec54b1e24719ef
+          m_UniqueId: LocalizeDetails
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: LocalizeDetails
+    - rid: 5912257884132475061
+      type: {class: WireModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 11219058844288300319
+          m_Value1: 8870028784945327958
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 1f3502e8931ab29b56ef273a2fac187b
+        m_Version: 2
+        m_FromPortReference:
+          m_NodeModelGuid:
+            m_Value0: 10097058402390499101
+            m_Value1: 11561826802270739917
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 1ddfdbd61ef51f8ccd1df02f38dc73a0
+          m_UniqueId: Choice 0
+          m_PortDirection: 2
+          m_PortOrientation: 0
+          m_Title: Choice 0
+        m_ToPortReference:
+          m_NodeModelGuid:
+            m_Value0: 11024688279601110427
+            m_Value1: 14582801372150110088
+          m_NodeModelHashGuid:
+            serializedVersion: 2
+            Hash: 9b5d0939948fff98881716c1958460ca
+          m_UniqueId: in 0
+          m_PortDirection: 1
+          m_PortOrientation: 0
+          m_Title: in 0
+    - rid: 5912257884132475066
+      type: {class: 'Constant`1[[System.Boolean, mscorlib]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: 1
+    - rid: 5912257884132475076
+      type: {class: VariableDeclarationModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 6766330320401609550
+          m_Value1: 13678021276849250203
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: 4e337eac93d5e65d9b9fd5cce117d2bd
+        m_Version: 2
+        m_Name: 'Text '
+        m_UniqueId: 
+        m_DataType:
+          m_Identification: DialogueSystem.DialogueGraphRuntime, Assembly-CSharp,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_IsExposed: 0
+        m_Scope: 0
+        m_ShowOnInspectorOnly: 0
+        m_Tooltip: 
+        m_InitializationValue:
+          rid: 5912257884132475078
+        m_Modifiers: 0
+        m_VariableFlags: 0
+    - rid: 5912257884132475078
+      type: {class: 'Constant`1[[DialogueSystem.DialogueGraphRuntime, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {fileID: 0}
+    - rid: 5912257884132475081
+      type: {class: VariableDeclarationModel, ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Guid:
+          m_Value0: 3594654652088321752
+          m_Value1: 8974850759850699390
+        m_HashGuid:
+          serializedVersion: 2
+          Hash: d806ee5b5cc7e2317eaa0b1d37138d7c
+        m_Version: 2
+        m_Name: Text  (1)
+        m_UniqueId: 
+        m_DataType:
+          m_Identification: DialogueSystem.DialogueGraphRuntime, Assembly-CSharp,
+            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_IsExposed: 0
+        m_Scope: 0
+        m_ShowOnInspectorOnly: 0
+        m_Tooltip: 
+        m_InitializationValue:
+          rid: 5912257884132475083
+        m_Modifiers: 2
+        m_VariableFlags: 0
+    - rid: 5912257884132475083
+      type: {class: 'Constant`1[[DialogueSystem.DialogueGraphRuntime, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {fileID: 3965311268370046156, guid: 2bff434c74e746e459cd2b19cd1a81f7, type: 3}
+    - rid: 5912257884132475091
+      type: {class: 'Constant`1[[DialogueSystem.DialogueGraphRuntime, Assembly-CSharp]]', ns: Unity.GraphToolkit.Editor, asm: Unity.GraphToolkit.Internal.Editor}
+      data:
+        m_Value: {fileID: 3965311268370046156, guid: 269425b9f61a4144c87340c26dc68d02, type: 3}
